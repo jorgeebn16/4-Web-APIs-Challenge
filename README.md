@@ -29,7 +29,7 @@ Here's how it works:
 
 ## Link to Deployed Application
 
-https://https://jorgeebn16.github.io/4-Web-APIs-Challenge/
+https://jorgeebn16.github.io/4-Web-APIs-Challenge/
 
 ## Contributions
 Made with ❤️ by Jorge Navarro
