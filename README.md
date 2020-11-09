@@ -22,14 +22,17 @@ Here's how it works:
     * You then see the high scores pulled from localStorage
 * On the initial landing page; there is a link to view the high scores saved in the localStorage.
 
-## Screen-Shot
+## Mock-Up
 
-![alt text](../assets/images/starwars-quiz.png)
+(./assets/images/starwars-quiz.png)
 
 
-## Live URL
+## Link to Deployed Application
 
-https://jorgeebn16.github.io/4-Web-APIs-Challenge/
+https://jorgeebn16.github.io/02-Advanced-CSS-Challenge/
+
+## Contributions
+Made with ❤️ by Jorge Navarro
 
 ## Checklist of Completion
 - [x] All above features are included
