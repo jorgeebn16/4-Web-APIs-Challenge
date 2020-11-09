@@ -24,7 +24,7 @@ Here's how it works:
 
 ## Screen-Shot
 
-![LandingPage](../assets/images/starwars-quiz.PNG)
+![LandingPage](../assets/images/starwars-quiz.png)
 
 
 ## Live URL
