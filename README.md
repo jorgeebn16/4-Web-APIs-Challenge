@@ -24,12 +24,12 @@ Here's how it works:
 
 ## Mock-Up
 
-(./assets/images/starwars-quiz.png)
+![website preview](./assets/images/starwars-quiz.png)
 
 
 ## Link to Deployed Application
 
-https://jorgeebn16.github.io/02-Advanced-CSS-Challenge/
+https://https://jorgeebn16.github.io/4-Web-APIs-Challenge/
 
 ## Contributions
 Made with ❤️ by Jorge Navarro

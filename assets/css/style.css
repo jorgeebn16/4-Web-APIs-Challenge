@@ -7,7 +7,6 @@
   --font-primary: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-
 html,body{
     font-family: var(--font-primary);
     height:100%;
@@ -48,7 +47,6 @@ header {
   margin:5px 0;
 }
   
-/* Section Specific Styles */
 #positionWrapper{
   display: flex;
   flex-direction: column;
@@ -80,18 +78,19 @@ section{
   left:40px;
   font-size: 20px;
   padding: 5px 15px;
-  background-color: var(--quaternary-color);
+  background-color: var(--primary-color);
   color: var(--secondary-color);
-  border-radius: 5px;
+  font-weight: bold;
 }
 
 #scores:hover{
   left:40px;
   font-size: 20px;
   padding: 5px 15px;
-  background-color: var(--primary-color);
-  color: var(--secondary-color);
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
   border-radius: 5px;
+  font-weight: bold;
 }
   
 #timer{
@@ -118,14 +117,16 @@ h1{
 }
 
 h2{
+  background-image: url(../images/background2.jpeg);
   background-size: cover;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
   background-position: center;
+  height: 300px;
   color: var(--secondary-color);  
   font-weight: bold;
-  font-size: 24px;
+  font-size: 40px;
   padding: 5px 20px;
   display: flex;
   flex-wrap: wrap;
@@ -139,17 +140,31 @@ h3{
   font-size: 18px;
   font-family: var(--font-primary);
 }
+
 h4{
-  color: var(--primary-color); 
+  background-image: url(../images/background1.jpeg);
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  background-position: center;
+  height: 300px;
+  width: 400;
+  color: var(--secondary-color);  
   font-weight: bold;
   font-size: 40px;
+  padding: 5px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
   font-family: var(--font-primary);
 }
 
 p{
-  text-align:center;
+  text-align:left;
   color: var(--primary-color);
   font-family: var(--font-primary);
+  font-size: 20px;
 }
 
 #intro{
@@ -167,10 +182,18 @@ button{
   border-radius: 5px;
   cursor:pointer;
   font-family: var(--font-primary);
+  font-size: 20px;
 }
   
 #intro button:hover{
-  background-color: var(--tertiary-color);
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  border: none;
+  padding:5px;
+  border-radius: 5px;
+  cursor:pointer;
+  font-family: var(--font-primary);
+  font-size: 20px;
 }
    
 #quizHolder #title{
@@ -198,7 +221,7 @@ button{
   color: var(--primary-color);
   font-size: 1.3em;
   margin: 0;
-  font-style: italic;
+  font-style: bold;
   font-weight:700;
   margin: 10px auto;
 }

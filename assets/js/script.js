@@ -25,7 +25,7 @@ var questions = [{
     answer: "He lost his right arm"
   },
   {
-    title: "Who played the part of Commander Cody??",
+    title: "Who played the part of Commander Cody?",
     choices: ["Jay Laga'aia", "Temuera Morrison", "Ahmed Best", "Joel Edgerton"],
     answer: "Temuera Morrison"
   },
@@ -35,7 +35,7 @@ var questions = [{
     answer: "Princess Leia"
   },
   {
-    title: "Who wiped out all of the information about Kamino from the Jedi Temple archives",
+    title: "Who wiped out all of the information about Kamino from the Jedi Temple archives?",
     choices: ["Darth Sidious", "Sifo-Dyas", "Count Dooku", "Yoda"],
     answer: "Count Dooku"
   },
@@ -45,7 +45,7 @@ var questions = [{
     answer: "His faith in his friends"
   },
   {
-    title: "Where did the Clone Wars begin??",
+    title: "Where did the Clone Wars begin?",
     choices: ["Tatooine", "Geonosis", "Naboo", "Coruscant"],
     answer: "Geonosis"
 },
